@@ -1,6 +1,13 @@
 ### Hi there 👋
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="office" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png">🏢</g-emoji> I'm a Software Engineer, currently working at <strong>Omniworks</strong></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning all about <strong>Go</strong></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me: <a href="https://linkedin.com/in/panos-skiadas" rel="nofollow">linkedin.com/in/panos-skiadas</a></li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun fact: I like crossfit, manga and philosophy</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 dir="auto">My toolbox</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -53,7 +60,7 @@
 </p>
 <p>
    
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
    <a href="https://linkedin.com/in/panos-skiadas" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panos-skiadas" height="30" width="40" />
