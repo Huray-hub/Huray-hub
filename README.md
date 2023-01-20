@@ -1,6 +1,6 @@
 ### Hi there 👋
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="office" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png">🏢</g-emoji> I'm a Software Engineer, currently working at <strong>Omniworks</strong></li>
+<li><g-emoji class="g-emoji" alias="office" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png">🏢</g-emoji> I'm a Software Engineer, currently working at <strong>Sycada</strong></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning all about <strong>Go</strong></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me: <a href="https://linkedin.com/in/panos-skiadas" rel="nofollow">linkedin.com/in/panos-skiadas</a></li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun fact: I like crossfit, manga and philosophy</li>
